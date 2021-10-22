@@ -1,13 +1,6 @@
 
 ### A new Flutter app project to manage tasks.
 
-<br>
-
-[![Let's fund issues in this repository](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/r/JobinBiju/Taskly)
-
-
-<br>
-
 # Getting Started
 
 A few resources to get you started if this is your first Flutter project:
