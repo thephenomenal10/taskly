@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/JobinBiju/Taskly/main/assets/readmeFiles/TasklyCover.png" width=700>
-</p>
 
 ### A new Flutter app project to manage tasks.
 
@@ -8,7 +5,6 @@
 
 [![Let's fund issues in this repository](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/r/JobinBiju/Taskly)
 
-<a href="https://www.buymeacoffee.com/jobinbiju234" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" alt="Buy Me A Coffee"></a>
 
 <br>
 
@@ -80,15 +76,6 @@ samples, guidance on mobile development, and a full API reference.
 
 | <img align="left" alt="Yellow Dark" src="https://raw.githubusercontent.com/JobinBiju/Taskly/main/assets/readmeFiles/yellowDark.jpg" width="250px" /> | <img align="left" alt="Red Dark" src="https://raw.githubusercontent.com/JobinBiju/Taskly/main/assets/readmeFiles/redDark.jpg" width="250px" /> | <img align="left" alt="Teal Dark" src="https://raw.githubusercontent.com/JobinBiju/Taskly/main/assets/readmeFiles/tealDark.jpg" width="250px" /> | <img align="left" alt="Green Dark" src="https://raw.githubusercontent.com/JobinBiju/Taskly/main/assets/readmeFiles/greenDark.jpg" width="250px" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<br>
-
-## Contribution
-
-- Fork this project, add improvements & make a pull request.
-- Send feedback & sugestions [here.](https://wa.me/918281392010/)
-
-<br>
 
 ## Support
 
